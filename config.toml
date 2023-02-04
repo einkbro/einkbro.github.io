@@ -1,4 +1,4 @@
-baseURL = 'https://einkbro.github.io'
+baseURL = 'https://einkbro.github.io/'
 languageCode = 'en-us'
 title = 'EinkBro'
 theme = 'loveit'
