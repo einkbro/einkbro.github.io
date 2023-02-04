@@ -1,7 +1,7 @@
 ---
 title: "Main UI"
 date: 2023-02-04T18:51:49+08:00
-draft: true
+draft: false
 ---
 
 # Main Screen

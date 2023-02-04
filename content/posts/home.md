@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2023-02-04T18:19:48+08:00
-draft: true
+draft: false
 ---
 
 User Manual of EinkBro App | [[EinkBro 使用說明手冊 中文版|manual_chinese]]
