@@ -11,9 +11,8 @@ paginate = 20
   [params.header]
     [params.header.title]
       name = "EinkBro"
-      #logo = "/logo.png"
+      logo = "images/logo.png"
       typeit = false
-      pre = "<img src=logo.png width=25 />"
   [params.page]
     [params.page.toc]
       enable = true
