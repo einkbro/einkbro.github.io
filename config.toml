@@ -1,0 +1,15 @@
+baseURL = 'https://einkbro.github.io'
+languageCode = 'en-us'
+title = 'EinkBro'
+theme = 'loveit'
+hasCJKLanguage = true
+paginate = 20
+[params]
+  AuthorName = 'Daniel Kao'
+  GitHubUser = 'plateaukao'
+[author]
+  name = 'Daniel Kao'
+  email = 'danielkao+einkbro at gmail.com'
+  link = 'https://twitter.com/plateau'
+
+
