@@ -9,8 +9,7 @@ From [Action Menu](https://github.com/plateaukao/einkbro/wiki/Action-Menu), 2nd 
 
 When check any item, the item will be moved to top of the list. You can use the drag icon on right side of each item to re-order items.
 
-{{< figure src=https://user-images.githubusercontent.com/4084738/212550669-a7af4c40-2535-42ef-90f6-36515394072b.png  >}}
-{{< figure src=https://user-images.githubusercontent.com/4084738/212550689-d51afa47-ee67-4954-a00e-fbd617b14621.png >}}
+![](https://user-images.githubusercontent.com/4084738/212550669-a7af4c40-2535-42ef-90f6-36515394072b.png) ![](https://user-images.githubusercontent.com/4084738/212550689-d51afa47-ee67-4954-a00e-fbd617b14621.png) 
 
 ## Button descriptions and their functions when added to toolbar
 | **Button**          | **Click**                                                            | **Long Click**                       |

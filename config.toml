@@ -1,12 +1,100 @@
 baseURL = 'https://einkbro.github.io/'
 languageCode = 'en-us'
-title = 'EinkBro'
+title = "EinkBro"
 theme = 'loveit'
 hasCJKLanguage = true
 paginate = 20
 [params]
   AuthorName = 'Daniel Kao'
   GitHubUser = 'plateaukao'
+  title = "EinkBro"
+  [params.header]
+    [params.header.title]
+      name = "EinkBro"
+      #logo = "/logo.png"
+      typeit = false
+      pre = "<img src=logo.png width=25 />"
+  [params.page]
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+# Menu config
+# 菜单配置
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "Blog"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    # 当您将鼠标悬停在此菜单链接上时, 将显示标题
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "docs"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "Docs"
+    url = "/docs/"
+    # title will be shown when you hover on this menu link
+    # 当您将鼠标悬停在此菜单链接上时, 将显示标题
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    [params.search]
+      enable = true
+      # type of search engine ["lunr", "algolia"]
+      # 搜索引擎的类型 ["lunr", "algolia"]
+      type = "algolia"
+      # max index length of the chunked content
+      # 文章内容最长索引长度
+      contentLength = 4000
+      # placeholder of the search bar
+      # 搜索框的占位提示语
+      placeholder = ""
+      # max number of results length
+      # 最大结果数目
+      maxResultLength = 10
+      # snippet length of the result
+      # 结果内容片段长度
+      snippetLength = 30
+      # HTML tag name of the highlight part in results
+      # 搜索结果中高亮部分的 HTML 标签
+      highlightTag = "em"
+      # whether to use the absolute URL based on the baseURL in search index
+      # 是否在搜索索引中使用基于 baseURL 的绝对路径
+      absoluteURL = false
+      [params.search.algolia]
+        index = ""
+        appID = ""
+        searchKey = ""
+  [params.home]
+    [params.home.profile]
+      title = "Welcome to EinkBro's official site"
+      subtitle = ""
+      typeit = false
+      avatarURL = "https://avatars.githubusercontent.com/u/4084738?v=4"
+    [params.social]
+      GitHub = "/plateaukao/einkbro"
+      Twitter = "/plateau"
+
 [author]
   name = 'Daniel Kao'
   email = 'danielkao+einkbro at gmail.com'
