@@ -4,6 +4,7 @@ title = "EinkBro"
 theme = 'loveit'
 hasCJKLanguage = true
 paginate = 20
+googleAnalytics = "G-TD2NBP5292"
 [params]
   AuthorName = 'Daniel Kao'
   GitHubUser = 'plateaukao'
