@@ -4,6 +4,8 @@ date: 2023-02-04T18:59:46+08:00
 draft: false
 ---
 
+## Screenshot
+
 ![image](https://user-images.githubusercontent.com/4084738/212547308-012a2a90-2b0c-4a16-8466-a0b0c4097c42.png)
 
 ## 1st Row
@@ -17,7 +19,7 @@ draft: false
 
   A quick popup to allow you toggle following features: `Incognito Mode`, `AdBlock`, `Javascript`, `Cookie`, `History recording`, `Location information`, `Use Volume key as page up/down control`, `Background Playing media`, `Desktop mode`.
 
-  <img src=https://user-images.githubusercontent.com/4084738/212547511-9626b82f-8559-4e6b-a4d5-0668e16ddada.png width=200 />
+  ![image](https://user-images.githubusercontent.com/4084738/212547511-9626b82f-8559-4e6b-a4d5-0668e16ddada.png)
 
 * **Open Home**
 
@@ -43,7 +45,7 @@ draft: false
 
   If you want to open a new Web content, but don't want to close existing one, you can try `split screen` feature. This feature is particularly useful when you are reading news websites, and want to browse all the articles without leaving the news list. This feature is also available when long clicking on url links too.
 
-  <img src=https://user-images.githubusercontent.com/4084738/212548372-9ca5643e-2379-428e-a1cc-c20cf9061c2a.png width=50 />
+  ![image](https://user-images.githubusercontent.com/4084738/212548372-9ca5643e-2379-428e-a1cc-c20cf9061c2a.png) 
 
   In the split screen, there's a new toolbar. From top to bottom, `orientation`, `dual screen link`, `scroll sync`, `font size increase`, `font size decrease`, `close split screen`.
 
@@ -134,7 +136,7 @@ draft: false
 * **White background**
 
 
-Some websites are with black background by default. It's hard to read on this kind of website on Eink devices. You can turn on white background feature, to see if it helps in this scenario.
+  Some websites are with black background by default. It's hard to read on this kind of website on Eink devices. You can turn on white background feature, to see if it helps in this scenario.
 
 * **Bold font**
 
@@ -144,7 +146,7 @@ Some websites are with black background by default. It's hard to read on this ki
 
   Change font size, and change font style. If you have font files on storage, you could also choose `Custom font`, and use `Edit Custom Font` to choose the font you have.
 
-{{< figure src=https://user-images.githubusercontent.com/4084738/212550023-3360b141-45d3-41b6-afe6-5c7ea44b5d4e.png >}}
+  ![image](https://user-images.githubusercontent.com/4084738/212550023-3360b141-45d3-41b6-afe6-5c7ea44b5d4e.png)
 
 * **Settings**
 

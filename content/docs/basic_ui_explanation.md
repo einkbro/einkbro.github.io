@@ -35,6 +35,8 @@ From left to right, the explanation is as follows:
 
   Create a new tab.
 
+  >**Long Click**: open a new window to show the web content. It will have a new tab list. Useful for multi-window scenario.
+
 * **Back**
 
   Back in web history.
@@ -56,6 +58,6 @@ From left to right, the explanation is as follows:
 
   A quick way to get you immersed in the main web content, by removing other distracting web components.
 
-* **[Action Menu](https://github.com/plateaukao/einkbro/wiki/Action-Menu)**
+* **Action Menu**
 
-  More features are available here. It will be explained in [next section](https://github.com/plateaukao/einkbro/wiki/Action-Menu).
+  More features are available here. It will be explained in [next section](/docs/action_menu).
