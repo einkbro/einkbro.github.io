@@ -1,6 +1,8 @@
 # Overview
 
-[中文版](https://medium.com/ereadertips/einkbro-%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%E8%88%87%E5%B0%8F%E6%8A%80%E5%B7%A7-db9c93b4d890)
+[中文版](https://medium.com/ereadertips/einkbro-使用教學與小技巧-db9c93b4d890)
+
+
 ### Why it's created
 
 As the CPU power is getting stronger, and screen refresh speed keeps improving for E-Ink devices, more and more people start to use E-Ink devices to browse the internet. It’s working; however the experience is not good enough. Existing browsers are not designed for E-Ink devices. So many UI elements are designed for normal Android devices: fancy animations, dimming background when dialogs pop up, etc.
