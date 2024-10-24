@@ -1,8 +1,4 @@
----
-title: "Action Menu"
-date: 2023-02-04T18:59:46+08:00
-draft: false
----
+# Action Menu
 
 ## Screenshot
 
@@ -45,7 +41,7 @@ draft: false
 
   If you want to open a new Web content, but don't want to close existing one, you can try `split screen` feature. This feature is particularly useful when you are reading news websites, and want to browse all the articles without leaving the news list. This feature is also available when long clicking on url links too.
 
-  ![image](https://user-images.githubusercontent.com/4084738/212548372-9ca5643e-2379-428e-a1cc-c20cf9061c2a.png) 
+  ![image](https://user-images.githubusercontent.com/4084738/212548372-9ca5643e-2379-428e-a1cc-c20cf9061c2a.png)
 
   In the split screen, there's a new toolbar. From top to bottom, `orientation`, `dual screen link`, `scroll sync`, `font size increase`, `font size decrease`, `close split screen`.
 
@@ -67,7 +63,7 @@ draft: false
 
 * **Touch setting**
 
-  <img src=https://user-images.githubusercontent.com/4084738/212548996-68e56706-e9b8-4ff3-91ba-cf9f4f0a1cbd.png width=250 />
+  <img src="https://user-images.githubusercontent.com/4084738/212548996-68e56706-e9b8-4ff3-91ba-cf9f4f0a1cbd.png" width="250" />
 
 ## 3rd Row
 
@@ -136,7 +132,7 @@ draft: false
 * **White background**
 
 
-  Some websites are with black background by default. It's hard to read on this kind of website on Eink devices. You can turn on white background feature, to see if it helps in this scenario.
+Some websites are with black background by default. It's hard to read on this kind of website on Eink devices. You can turn on white background feature, to see if it helps in this scenario.
 
 * **Bold font**
 
@@ -151,3 +147,5 @@ draft: false
 * **Settings**
 
   Display Settings screen. The Settings screen will be explained in other sections.
+
+Start typing here...
