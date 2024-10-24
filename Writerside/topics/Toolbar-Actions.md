@@ -1,7 +1,8 @@
 # Toolbar Actions
 
 ## How to show the toolbar configuration dialog
-From [Action Menu](https://github.com/plateaukao/einkbro/wiki/Action-Menu), 2nd Row, you can launch Toolbar configuration dialog by clicking on `Toolbar setting` button.
+
+From [](Action-Menu.md), 2nd Row, you can launch Toolbar configuration dialog by clicking on `Toolbar setting` button.
 
 When check any item, the item will be moved to top of the list. You can use the drag icon on right side of each item to re-order items.
 
